@@ -4,7 +4,7 @@
 BLOCK_SIZE = 2048
 VOLUME_PATH = "/Volumes/LG Recorder"
 FILES_TO_COPY = [
-  "00000001REC/0000000100000001.TS"  # Rockwiz episode video!
+  "00000001REC/0000000100000001.TS"
 ]
 
 # Load resume offset for a file
